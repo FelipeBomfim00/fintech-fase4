@@ -1,0 +1,81 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: 'Poppins', sans-serif;
+ 
+}
+
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #242424;
+  text-align: 50%;
+}
+
+a {
+  text-decoration: none;
+  color: white
+}
+
+body {
+  text-align: center;
+  justify-content: center;
+  margin-bottom: 20px;
+  background-color: #242424;
+}
+
+h1 {
+  padding: 50px ;
+  color: beige;
+  background-color: #C78C34;
+  border-radius: 0px 00px 150px 150px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 100;
+  
+}
+
+div {
+  margin: 20px;
+}
+
+input{
+  padding: 10px;
+  background-color: #363636;
+  border: none;
+  border-color: #c78c34;
+  color: beige;
+  
+}
+
+#valor{
+  width: 80vmax;
+}
+
+button {
+  font-size: 20px;
+  text-transform: uppercase;
+  color: white;
+  font-weight: 200;
+  background-color: #c78c34;
+  border-radius: 5px;
+  padding: 15px;
+  
+  
+}
+
+#botao_entrar :hover {
+  background-color: #774d03;
+  
+  
+}
+
+#cadastrar{
+  background-color: #504f4f;
+}
+
+.form-label{
+  color: var(--bs-light)
+
+}
